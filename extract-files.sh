@@ -19,8 +19,8 @@
 set -e
 
 # Required!
-export DEVICE=j5lte
-export DEVICE_COMMON=j5-common
+export DEVICE=o7prolte
+export DEVICE_COMMON=o7-common
 export VENDOR=samsung
 
 export SETUP_DEVICE_DIR=1
